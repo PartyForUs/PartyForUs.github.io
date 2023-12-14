@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0deb39c.css",
+    "main.js": "/static/js/main.31f2e186.js",
+    "static/js/787.3386b701.chunk.js": "/static/js/787.3386b701.chunk.js",
+    "static/media/BMDOHYEON_ttf.ttf": "/static/media/BMDOHYEON_ttf.d20f6c68004f7588ee16.ttf",
+    "index.html": "/index.html",
+    "main.b0deb39c.css.map": "/static/css/main.b0deb39c.css.map",
+    "main.31f2e186.js.map": "/static/js/main.31f2e186.js.map",
+    "787.3386b701.chunk.js.map": "/static/js/787.3386b701.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0deb39c.css",
+    "static/js/main.31f2e186.js"
+  ]
+}
